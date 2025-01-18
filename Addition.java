@@ -12,5 +12,6 @@ public class Addition {
         int num3 = sc.nextInt();
 
         System.out.println("Sum of your number is :"+(num1+num2+num3));
+        
     }
 }
